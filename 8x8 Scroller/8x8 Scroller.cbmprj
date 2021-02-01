@@ -18,7 +18,7 @@
     <AutoLaunchName>8x8 scroller.prg</AutoLaunchName>
     <NoSingleFileBuild>False</NoSingleFileBuild>
     <CreatedWithVersion />
-    <HasGitRepo>True</HasGitRepo>
+    <HasGitRepo>False</HasGitRepo>
     <GitIgnoreList />
     <Cartridge>
         <CrtBuildingCartridge>False</CrtBuildingCartridge>
