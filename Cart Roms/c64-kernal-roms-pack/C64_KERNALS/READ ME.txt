@@ -1,0 +1,19 @@
+SAMPLE_27C512.BIN contains:
+
+1-deadtest.bin
+2-dolphindos.bin
+3-speeddosplus.bin
+4-memostar.bin
+5-masteromv3.bin
+6-turbotrans.bin
+7-sd2iec22.bin
+8-901227 3.bin
+
+
+
+You can find commodore64 kernal rom replacement adapter (kernal table) PCB from the link below:
+
+https://www.pcbway.com/project/member/?bmbno=5B9D77D5-9033-46
+
+Have fun
+Thank you
